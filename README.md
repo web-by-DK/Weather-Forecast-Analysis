@@ -58,9 +58,8 @@ This project transforms live weather data from **WeatherAPI.com** into a polishe
 
 ## 🖼️ Dashboard Preview
 
-> _Add a screenshot or GIF of your dashboard below to showcase the final design._
-
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](<img width="1347" height="757" alt="Screenshot 2026-07-03 173646" src="https://github.com/user-attachments/assets/5ffe0c6d-f7c8-4143-ab3f-42848ba5e8dd" />
+)
 
 <!-- Tip: You can also embed a short GIF walkthrough here, e.g. images/dashboard_demo.gif -->
 
@@ -68,14 +67,11 @@ This project transforms live weather data from **WeatherAPI.com** into a polishe
 
 ## 🚀 How to Use / View the Dashboard
 
-**Option 1: Open the .pbix File**
+**Open the .pbix File**
 1. Clone or download this repository.
 2. Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed (free).
 3. Open `Weather_Forecast_Dashboard.pbix`.
 4. If prompted, refresh the data source connection (you may need your own WeatherAPI.com API key — see below).
-
-**Option 2: View Published Report**
-- 🔗 [Live Dashboard Link](#) *(replace with your published Power BI Service link, if available)*
 
 **Setting Up Your Own API Key:**
 1. Sign up for a free key at [WeatherAPI.com](https://www.weatherapi.com/).
@@ -100,7 +96,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🙋‍♂️ Author
 
-Built with ☕ and curiosity by **[Your Name]**.
-📫 Connect on [LinkedIn](#) | 🌐 [Portfolio](#)
+Built with ☕ and curiosity by **Deepanshu Kumawat**.
+📫 Connect on [LinkedIn](https://www.linkedin.com/in/deepanshukumawat31/) 
 
 ⭐ If you found this project useful or interesting, consider giving it a star!
