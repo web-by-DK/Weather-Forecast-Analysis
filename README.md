@@ -58,8 +58,7 @@ This project transforms live weather data from **WeatherAPI.com** into a polishe
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](<img width="1347" height="757" alt="Screenshot 2026-07-03 173646" src="https://github.com/user-attachments/assets/5ffe0c6d-f7c8-4143-ab3f-42848ba5e8dd" />
-)
+![Dashboard Preview](<img width="1281" height="720" alt="gif" src="https://github.com/user-attachments/assets/62757290-b512-40dd-8bf6-5ff8a669e363" />)
 
 <!-- Tip: You can also embed a short GIF walkthrough here, e.g. images/dashboard_demo.gif -->
 
