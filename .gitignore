@@ -1,0 +1,61 @@
+# ===================================
+# Power BI .gitignore
+# ===================================
+
+# Power BI temporary/lock files
+~$*.pbix
+*.pbix.lock
+*.tmp
+
+# Power BI backup files
+*.pbix.bak
+*.pbit.bak
+
+# Power BI Desktop cache/temp folders
+*.pbix.DataModel
+*.pbix.Report
+Cache/
+TempData/
+
+# Sensitive credentials / connection info
+*.pbids
+config.json
+secrets.json
+api_keys.txt
+.env
+.env.local
+
+# Power BI Service publish settings (may contain workspace/tenant info)
+*.pbip
+.pbi/
+.platform
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Compressed/archive backups
+*.zip
+*.rar
+*.7z
+
+# Exported data extracts (avoid committing large/raw pulls, keep only samples)
+/data/raw/*
+!/data/raw/.gitkeep
+
+# Python (if used for API testing/scripts)
+__pycache__/
+*.pyc
+venv/
+.venv/
